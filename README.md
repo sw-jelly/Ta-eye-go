@@ -1,5 +1,4 @@
 # 타이고 : Ta-eye-go
-## 👩🏻‍💻 OUR [[Notion]](https://www.notion.so/558305e5a82e4c25b28b7b07464b68ba)
 
 #### 시각장애인용 버스 승하차 예약 어플
 > - [android](https://github.com/Ta-eye-go/android)
@@ -12,4 +11,5 @@
 - 인앱결제
 - 기사 알림
 
-#### Update 
+#### 발표자료
+![image](https://github.com/sw-jelly/Ta-eye-go/assets/72266806/04760574-e283-447e-80ff-6a377c4cf5a7)
